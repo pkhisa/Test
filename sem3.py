@@ -38,7 +38,7 @@ def move():
     Press CTRL+C to exit.
     """)
 
-    explorerhat.motor.forwards()
+    explorerhat.motor.forwards()####
 
     touched = [False] * 8
 
